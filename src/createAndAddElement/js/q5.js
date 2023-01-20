@@ -1,9 +1,9 @@
-//domを更新して今日の日付と天気を正しく変更しよう！！
-const today = document.querySelector('_____');
+const japaneseList = document.querySelector('_____');
 
-const nowDate = new ____();
-today.innerHTML = `_____`;
+const firstRow = document.createElement('__');
+firstRow._____ = '_____';
+japaneseList._____(_____, __________);
 
-const weather = document.querySelector('_____');
-weather.innerHTML = '_____';
-
+const lastRow = document.createElement('__');
+lastRow._____ = '_____';
+japaneseList._____(_____);
