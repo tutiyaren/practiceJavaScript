@@ -1,4 +1,4 @@
-fetch("../js/test2.json")
+fetch("../js/test3.json")
 
 .then(response => {
 	return response.json();
