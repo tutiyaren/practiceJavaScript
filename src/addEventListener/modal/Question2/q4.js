@@ -3,6 +3,6 @@
 
 const signInButton = document.querySelector('.open-modal');
 
-document.addEventListener('click', (event) => {
+signInButton.addEventListener('click', (event) => {
   console.log("hoge");
 });
