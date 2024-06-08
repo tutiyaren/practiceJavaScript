@@ -1,8 +1,8 @@
 //console.logを使ってみよう！
-console.log('_____');
+console.log('Hello World!');
 
 const name = "Json Taro";
-console.log(____);
+console.log(name);
 
 const fruits = [
   'banana',
